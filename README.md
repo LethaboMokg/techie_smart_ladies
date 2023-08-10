@@ -1,5 +1,5 @@
 # techie_smart_ladies
-making an improvement in the agri-growth
+making an improvement in the Agri-Growth
 
 #  added few layouts of the pages
 # git clone the project
