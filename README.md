@@ -18,9 +18,10 @@
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your browser to start using the app.
-
-                                                     OR
-   Visit the live site at: [AgriGrowth](https://agrigrowth.com)
+  
+OR
+ 
+  Visit the live site at: [AgriGrowth](https://agrigrowth.com)
 
 ## The Task
  AgriGrowth was developed with a clear task in mind: to create a web application that contributes to addressing several key Sustainable Development Goals (SDGs). Specifically, the goals selected are SDGs 1, 2, 3, 8, 12, and 13. These goals cover a range of global challenges related to poverty, hunger, health, decent work, responsible consumption, and climate action.
@@ -62,7 +63,7 @@ This approach ensures that AgriGrowth aligns with the broader global goals of pr
 - [Font Awesome](https://fontawesome.com/)
 
 ## Acknowledgements
-    We would like to thank Tech4Dev for this gracious opportunity to be participants of the Womens' Techsters Bootcamp 2.7 Cohort
+  We would like to thank Tech4Dev for this gracious opportunity to be participants of the Womens' Techsters Bootcamp 2.7 Cohort
 
 ## Authors
   AgriGrowth was developed by the Techie-Smart Ladies
