@@ -21,7 +21,7 @@
   
 OR
  
-  Visit the live site at: [AgriGrowth](https://agrigrowth.com)
+  Visit the live site at: [AgriGrowth](https://techie-smart-ladies-deploy.vercel.app/)
 
 ## The Task
  AgriGrowth was developed with a clear task in mind: to create a web application that contributes to addressing several key Sustainable Development Goals (SDGs). Specifically, the goals selected are SDGs 1, 2, 3, 8, 12, and 13. These goals cover a range of global challenges related to poverty, hunger, health, decent work, responsible consumption, and climate action.
