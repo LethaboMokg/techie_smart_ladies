@@ -400,3 +400,70 @@ h2 {
 .legal__link:active {
   text-decoration: underline;
 }
+
+/* ----------------------------------------Donation section------------------------------------------------  */
+.main-container{
+  /* height: 100vh;
+   background-color: blue; */
+  /* overflow: visible; */
+}
+.donate_title{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3rem;
+  text-align: center;
+  color: #ffff;
+  padding-top: 30px;
+  font-weight: bolder;
+
+}  
+
+.bg_img{
+  margin-top: 10px;  
+  height: 100vh; 
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-image: url("farming.jpg");
+}
+.form-container{
+  display: flex;
+  flex-direction: column;
+  text-align:start ;
+  padding: 100px; 
+  gap: 8px;
+  position: absolute;
+  border-radius: 5px;
+  background-color: #B9BD41;
+  right: 0;
+  margin: 30px;
+  max-width: 500px;
+}
+/* Set a style for the submit button */
+.donate_btn {
+  background-color: #7EBC3D;
+  border-radius: 4px;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+ }
+
+.donate_btn:hover {
+  opacity: 1;
+  background-color: #3A602F;
+}  
+input[type=text], input[type=email], input[type=number]{
+  width: 100%;
+  padding: 10px 90px;
+  outline: none;
+  text-align: left;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
