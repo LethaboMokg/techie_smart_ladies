@@ -1,5 +1,6 @@
 const empty = document.querySelector(".empty");
 const header = document.querySelector(".header");
+const faqIcons = document.querySelectorAll(".faq__icon");
 
 const obs = new IntersectionObserver(
   function (entries) {
@@ -20,3 +21,14 @@ const obs = new IntersectionObserver(
   }
 );
 obs.observe(empty);
+
+faqIcons.forEach((faqIcon) => {
+  const icon = faqIcon.querySelector(".fas");
+  const answer = faqIcon.parentElement.nextElementSibling;
+
+  faqIcon.addEventListener("click", () => {
+    icon.classList.toggle("fa-plus");
+    icon.classList.toggle("fa-minus");
+    answer.classList.toggle("open");
+  });
+});
